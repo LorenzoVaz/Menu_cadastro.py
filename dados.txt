@@ -1,0 +1,10 @@
+Relatorio de Clientes 
+
+A loja SalesForce possui 6 cliente(s) 
+1. Jose neto  
+2. Flavim do Pneu  
+3. Carl Johnson  
+4. Gabriel Toledo  
+5. Neymar junior  
+6. Lorenzo vaz  
+Russas, 10/10/2023.
